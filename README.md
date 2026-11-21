@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about technology, web development, 
 - 🌱 **Currently Studying:** Bachelor's in Web Development and Cyber Security at the University of Northampton.
 - 💻 **Working On:** Improving my coding skills and developing innovative web projects.
 - 🤝 **Collaboration:** Open to collaborating with developers and tech enthusiasts on exciting projects.
-- 📫 **Contact:** Feel free to connect with me on Facebook.
+- 📫 **Contact:** Feel free to connect me.
 - 😄 **Pronouns:** He/Him.
 - ⚡ **Fun Fact:** I love turning creative ideas into real-world digital experiences!
 
