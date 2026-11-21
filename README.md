@@ -1,4 +1,4 @@
-👋 Hi, I'm Raushan Jai (@raushanjai007)
+👋 Hi, I'm Raushan Jaiswal (jaiswalraushan700@gmail.com)
 
 💻 Web Development & Cyber Security Student | Aspiring Developer
 
